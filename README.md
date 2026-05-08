@@ -3,18 +3,18 @@
 # **Muhammad Usman Butt**
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat+ExtraBold&pause=1000&width=700&size=28&duration=4000&color=0B3D91&lines=Full-Stack+ML/AI+Engineer;RAG+LLM+Pipelines+✦+Autonomous+Agents;Backend-Services+✦+Mobile+✦+Web-APPs)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat+ExtraBold&pause=1000&width=700&size=28&duration=4000&color=0B3D91&lines=Full-Stack+ Software & ML/AI+Engineer;RAG+LLM+Pipelines+✦+Autonomous+Agents;Backend-Services+✦+Mobile+✦+Web-APPs)
 
 ![Profile views](https://komarev.com/ghpvc/?username=MuhammadUsmanButt&color=blue)
 
-## I build scalable backend and AI systems that execute, reason, and operate autonomously
+## I build scalable Full-Stack Software and AI systems that execute, reason, and operate autonomously
 
 Specializing in AI agents, RAG systems, and high-performance distributed backends.
 From realtime service to multi-agent orchestration, I engineer systems at the core of applied AI.
 
 <img align="right" alt="Coding" width="260" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1wMWN5eTlzOXdteXplc2I3NTM0em41cDM4dG8zMmoycjd6eDRuNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" /> 
 
-### Building scalable backend AI systems that power intelligent applications.
+### Building scalable Full-Stack systems that power intelligent applications.
 
 I build ML models and ship production-ready AI systems that power intelligent applications.
 From core infrastructure to autonomous multi-agent pipelines, I design end-to-end systems that execute at scale.
