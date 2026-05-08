@@ -3,7 +3,7 @@
 # **Muhammad Usman Butt**
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat+ExtraBold&pause=1000&width=700&size=28&duration=4000&color=0B3D91&lines=Full-Stack+Software-&-ML/AI+Engineer;RAG+LLM+Pipelines+✦+Autonomous+Agents;Backend-Services+✦+Mobile+✦+Web-APPs)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat+ExtraBold&pause=1000&width=700&size=28&duration=4000&color=0B3D91&lines=Full-Stack+Software+and+ML/AI+Engineer;RAG+LLM+Pipelines+✦+Autonomous+Agents;Backend-Services+✦+Mobile+✦+Web-APPs)
 
 ![Profile views](https://komarev.com/ghpvc/?username=MuhammadUsmanButt&color=blue)
 
