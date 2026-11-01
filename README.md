@@ -3,7 +3,7 @@
 # **Muhammad Usman Butt**
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat+ExtraBold&pause=1000&width=700&size=28&duration=4000&color=0B3D91&lines=Software+Engineer+Applied-Cybersecurity-&-ML;Secure-Services+✦+Mobile+✦+Web-APPs)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat+ExtraBold&pause=1000&width=700&size=28&duration=4000&color=0B3D91&lines=Software+Engineer;+Applied-Cybersecurity-&-ML;Secure-Services+✦+Mobile+✦+Web-APPs)
 
 ![Profile views](https://komarev.com/ghpvc/?username=MuhammadUsmanButt&color=blue)
 
