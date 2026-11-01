@@ -3,11 +3,11 @@
 # **Muhammad Usman Butt**
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat+ExtraBold&pause=1000&width=700&size=28&duration=4000&color=0B3D91&lines=Full-Stack+Software+and+Applied Cybersecurity & ML;Secure-Services+✦+Mobile+✦+Web-APPs)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat+ExtraBold&pause=1000&width=700&size=28&duration=4000&color=0B3D91&lines=Full-Stack+Software+and+Applied-Cybersecurity-&-ML;Secure-Services+✦+Mobile+✦+Web-APPs)
 
 ![Profile views](https://komarev.com/ghpvc/?username=MuhammadUsmanButt&color=blue)
 
-## I build scalable Full-Stack Software and AI systems that execute, reason, and operate autonomously
+## I build scalable full-stack software and intelligent cybersecurity systems, leveraging machine learning for network anomaly detection and applied cryptography for secure, end-to-end communication.
 
 Software Developer & Cybersecurity Engineer building scalable software and intelligent security systems, specializing in machine learning, network anomaly detection, secure end-to-end communication, PKI, and applied cryptography.
 
